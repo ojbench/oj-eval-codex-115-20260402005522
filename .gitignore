@@ -1,0 +1,4 @@
+# Local secrets and logs
+.env
+.acmoj_token
+/workspace/submission_ids.log
